@@ -1,4 +1,4 @@
-@import url("http://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800");
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800");
 
 // Override default variables before the import
 $primary: #2b1456;
@@ -54,4 +54,8 @@ body {
   text-overflow: ellipsis;
   display: -webkit-box;
   -webkit-box-orient: vertical;
+}
+
+.user-info {
+  min-width: 800px;
 }
